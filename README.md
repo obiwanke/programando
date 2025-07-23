@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Armando Rivero (Obi) por acá</h1></summary>
   </ul>
 </div>
 
@@ -28,9 +28,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Python**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Interesado en Datos y Linux, estudiando actualmente **Python/Js**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
